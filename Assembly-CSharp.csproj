@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\Borschik.cs" />
     <Compile Include="Assets\Moving.cs" />
+    <Compile Include="Assets\Rotate.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
